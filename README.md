@@ -21,8 +21,8 @@ Follow these steps to set up the project locally:
 Start by cloning the project repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone https://github.com/princemeghani/django-tdd
+cd django-tdd
 ```
 
 ### 2. Create a Virtual Environment
